@@ -1,5 +1,5 @@
 import React from 'react';
-import { Col, Container, Jumbotron, Row, Image, Card, Button } from 'react-bootstrap';
+import { Col, Container, Jumbotron, Row, Image, Card, Button, NavLink } from 'react-bootstrap';
 import { useHistory } from 'react-router-dom';
 
 const Dashboard = props => {
@@ -38,7 +38,7 @@ const Dashboard = props => {
                             <Card.Text>
                                 Un proyecto de carácter investigativo sobre el árbol Yarumo o Guarumo. donde se ha ideado un sistema de vida para el árbol desde su sembrado hasta el manejo de desechos, todo con el fin de llevar el campo de la ingeniería civil a un nivel ecológico máximo, aportando a la reducción de huella de carbono del país
                         </Card.Text>
-                            <Button variant="primary" onClick={redirectToMDF}>Ver Proyecto</Button>
+                            <NavLink className="btn btn-primary" href="https://contruccionconyarumo.wordpress.com/construccion-con-yarumo/">Ver Proyecto</NavLink>
                         </Card.Body>
                     </Card>
                 </Col>
