@@ -80,6 +80,66 @@ const Dashboard = props => {
                         </Card.Body>
                     </Card>
                 </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://proyectoartt20211acero.files.wordpress.com/2021/05/acerca-de.jpg" />
+                        <Card.Body>
+                            <Card.Title>Bodega Familiar en Acero</Card.Title>
+                            <Card.Text>
+                                En la presente página web encontrará lo que para mi es un sueño futuro, un primer acercamiento a lo que sería la construcción de una bodega, como muestra de agradecimiento a mis padres por todo lo que han hecho por mi.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://proyectoartt20211acero.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://alumbrado760682529.files.wordpress.com/2021/05/light-bulb-984551_1920.jpg" />
+                        <Card.Body>
+                            <Card.Title>Alumbrado público para población vulnerable</Card.Title>
+                            <Card.Text>
+                                Proyecto que se realiza con el fin de generar energías renovables que beneficien a poblaciones vulnerables con un sistema de alumbrado público gratuito y autosostenible.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://alumbrado760682529.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="http://c.files.bbci.co.uk/D92A/production/_109949555_fractal-arriba.jpg" />
+                        <Card.Body>
+                            <Card.Title>Fractales</Card.Title>
+                            <Card.Text>
+                            Mi proyecto durante este semestre fue profundizar mas en temas de mi interés, desarrollar mis gustos personales, lo abarque en 2 areas con cierta similitud, los fractales y los videojuegos, que son temas que a futuro puedes serme de utilidad profesionalmente y finalmente me involucran como ingeniero de sistemas.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://fractalandvideog.wordpress.com/arte-ciencia-y-tecnologia/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://fundicionco.files.wordpress.com/2021/05/image-15.png" />
+                        <Card.Body>
+                            <Card.Title>Su segunda fundición.</Card.Title>
+                            <Card.Text>
+                            Por medio de este proyecto se buscan varias cosas entre ellas reducir drasticamente la contaminación para así hacer un mundo mejor para todos, por medio de varios métodos, siendo el mas importante el reciclaje. 
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://fundicionco.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://stefanydelgadoartt.files.wordpress.com/2021/05/cropped-logo-1.png" />
+                        <Card.Body>
+                            <Card.Title>Plastic'art</Card.Title>
+                            <Card.Text>
+                            Plastic’ Art es un proyecto que nació de la necesidad de reciclar el plástico, principalmente tapas de botellas, y poder realizar un modelo a escala de mi propio hogar con esto, usando placas plásticas hechas de tapas y ciertos embaces de productos triturados.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://stefanydelgadoartt.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
             </Row>
         </Container>
     );
