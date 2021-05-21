@@ -2,6 +2,7 @@ import React from 'react';
 import { Col, Container, Jumbotron, Row, Image, Card, Button, NavLink } from 'react-bootstrap';
 import logo from '../img/logo.png';
 import energiaParaTodos from '../img/energiaParaTodos.jpg';
+import ecolife from '../img/ecolife.png';
 import { useHistory } from 'react-router-dom';
 
 const Dashboard = props => {
@@ -137,6 +138,78 @@ const Dashboard = props => {
                             Plastic’ Art es un proyecto que nació de la necesidad de reciclar el plástico, principalmente tapas de botellas, y poder realizar un modelo a escala de mi propio hogar con esto, usando placas plásticas hechas de tapas y ciertos embaces de productos triturados.
                         </Card.Text>
                             <NavLink className="btn btn-primary" href="https://stefanydelgadoartt.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://resta532537178.files.wordpress.com/2021/05/descarga-3.jpg" />
+                        <Card.Body>
+                            <Card.Title>Andrómeda</Card.Title>
+                            <Card.Text>
+                            Restaurante que nace de la inspiración de un material como lo es la roca y también el cumplir un sueño propio. 
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://resta532537178.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://www.embalajesterra.com/1515-large_default/teflon-no-adhesivo-lamina-laminas-de-teflon.jpg" />
+                        <Card.Body>
+                            <Card.Title>Casas de cartón</Card.Title>
+                            <Card.Text>
+                            El proyecto busca ayudar en un futuro con materiales reciclables como es el cartón a las personas con escasos recursos construyendo VIS.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://miproyectoartt.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://artline813308929.files.wordpress.com/2021/05/l-3.jpg" />
+                        <Card.Body>
+                            <Card.Title>Compraventa de arte</Card.Title>
+                            <Card.Text>
+                                Pagina de compraventa de arte digital
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://artline813308929.wordpress.com/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://static.s123-cdn-static-a.com/uploads/5232423/400_60a6ffa2e85c4.png" />
+                        <Card.Body>
+                            <Card.Title>Innovación Automotriz</Card.Title>
+                            <Card.Text>
+                            Mi objetivo es lograr que las industrias en general necesiten de un material fuerte, con propiedades específicas, liviano, barato y fácil de trabajar, para que así puedan desarrollar nuevas tecnologías con este material.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://60a6e7e7c94d5.site123.me/">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src="https://static.wixstatic.com/media/3c49a22fc25741b5822dae3a998041cf.jpg/v1/fill/w_761,h_493,al_c,q_85,usm_0.66_1.00_0.01/Yellow%203D%20Printed%20Shape.webp" />
+                        <Card.Body>
+                            <Card.Title>Bio-impresion 3D</Card.Title>
+                            <Card.Text>
+                                El proyecto de bioimpresion 3d se creó con el fin de brindar a la sociedad información sobre el mundo de la impresión 3d a partir de materiales de impresión biodegradables.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://criistianev2015.wixsite.com/bioimpresion3d">Ver Proyecto</NavLink>
+                        </Card.Body>
+                    </Card>
+                </Col>
+                <Col>
+                    <Card style={{ width: '18rem' }}>
+                        <Card.Img variant="top" src={ecolife} />
+                        <Card.Body>
+                            <Card.Title>ECO-LIFE</Card.Title>
+                            <Card.Text>
+                            ECO-LIFE le dará solución a la necesidad de dar tratamiento a las  aguas grises que se producen en los hogares, las cuales generan daños en la salud. Por lo tanto, se busca proponer una solución sostenible, funcional, fácil de transportar y que trae beneficios al entorno.
+                        </Card.Text>
+                            <NavLink className="btn btn-primary" href="https://artificialwetland.wordpress.com/">Ver Proyecto</NavLink>
                         </Card.Body>
                     </Card>
                 </Col>

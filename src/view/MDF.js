@@ -1,6 +1,8 @@
 import React, { useRef } from 'react';
 import Icofont from 'react-icofont';
 import DownloadLink from "react-download-link";
+import pdf from '../files/Proyecto.pdf';
+import {Link} from 'react-router-dom'
 
 const MDF = props => {
 
@@ -79,7 +81,7 @@ const MDF = props => {
                                     es un material perfecto para la personalización con acrilicos y poder darle tu toque y personalidad a tu
                                     herramienta de trabajo. Para conocer mas sobre el proyecto.
                                 </p>
-                                <a className="btn btn-primary" href='../files/Proyecto.docx' download>Descargar Documento</a>
+                                <a className="btn btn-primary" href={pdf} download="Proyecto.pdf">Descargar Proyecto</a>
                             </div>
                         </div>
                     </div>
