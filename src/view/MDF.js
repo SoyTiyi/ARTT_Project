@@ -50,7 +50,7 @@ const MDF = props => {
             <section id="hero">
                 <div className="hero-container">
                     <h1>Laptop MDF</h1>
-                    <h2>Somos un grupo que busca proporcionar una laptop economica y potente que ayude en estos tiempos de pandemia y pueda aportar al Open Sources</h2>
+                    <h2>Somos un grupo que busca proporcionar una laptop económica y potente que ayude en estos tiempos de pandemia y pueda aportar al Open Source</h2>
                     <a onClick={goToAbout} className="btn-get-started scrollto">Comenzar</a>
                 </div>
             </section>
@@ -67,7 +67,7 @@ const MDF = props => {
                                 <img src="https://cdn1.epicgames.com/ue/product/Screenshot/2-1920x1080-e141c8d4438c9757ea202ae5c616923c.png?resize=1&w=1600" className="img-fluid" />
                             </div>
                             <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
-                                <h3>LaptopMDF es un grupo que busca aportar un producto tecnologico que encanje en los tiempos de pandemia</h3>
+                                <h3>LaptopMDF es un grupo que busca aportar un producto tecnológico que encaje en los tiempos de pandemia</h3>
                                 <p ClassName="font-italic">
                                     Buscamos ofrecer una laptop basada en MDF, el cual es tablero de fibras de densidad media, del inglés medium density fibreboard.
                                 </p>
@@ -77,9 +77,7 @@ const MDF = props => {
                                     <li><i className="icofont-check-circled"></i> Personalización del sistema operativo, utilizamos un OS base in Linux para aportar con Software a la comunidad</li>
                                 </ul>
                                 <p>
-                                    El <span>MDF</span> es un material que al acabar la vida util de nuestro dispositivo puede ser reciclado,
-                                    es un material perfecto para la personalización con acrilicos y poder darle tu toque y personalidad a tu
-                                    herramienta de trabajo. Para conocer mas sobre el proyecto.
+                                El MDF es un material que al acabar la vida útil de nuestro dispositivo puede ser reciclado, es un material perfecto para la personalización con acrílicos y poder darle tu toque y personalidad a tu herramienta de trabajo. Para conocer más sobre el proyecto.
                                 </p>
                                 <a className="btn btn-primary" href={pdf} download="Proyecto.pdf">Descargar Proyecto</a>
                             </div>
@@ -91,13 +89,13 @@ const MDF = props => {
                     <div className="container">
                         <div className="section-title">
                             <h2>Servicios</h2>
-                            <p>Estas son las caracteristicas mas importantes de nuestra laptop</p>
+                            <p>Estas son las características más importantes de nuestra laptop</p>
                         </div>
                         <div className="row">
                             <div class="col-lg-4 col-md-6 icon-box">
                                 <div className="icon"><i className="icofont-brain-alt"></i></div>
                                 <h4 className="title">Procesador</h4>
-                                <p>Tecnologia ARM, son la opción ideal, ya que utilizan un método de procesamiento simplificado y que consume menos energía. Esto se representa en el mismo nombre ARM, que significa «Advanced RISC Machine» o máquina RISC avanzada, donde RISC significa «Reduced Instruction Set Computer».</p>
+                                <p>Tecnología ARM, son la opción ideal, ya que utilizan un método de procesamiento simplificado y que consume menos energía. Esto se representa en el mismo nombre ARM, que significa «Advanced RISC Machine» o máquina RISC avanzada, donde RISC significa «Reduced Instruction Set Computer».</p>
                             </div>
                             <div class="col-lg-4 col-md-6 icon-box">
                                 <div className="icon"><i className="icofont-code"></i></div>
@@ -107,12 +105,12 @@ const MDF = props => {
                             <div class="col-lg-4 col-md-6 icon-box">
                                 <div className="icon"><i className="icofont-eco-environmen"></i></div>
                                 <h4 className="title">ECO</h4>
-                                <p>Por el material el cual esta construido nuestra laptop, nos ayuda a poder reciclar de mejor manera cada componente como lo es el chasis o sus componentes electronicos.</p>
+                                <p>Por el material el cual está construido nuestra laptop, nos ayuda a poder reciclar de mejor manera cada componente como lo es el chasis o sus componentes electrónicos.</p>
                             </div>
                             <div class="col-lg-4 col-md-6 icon-box">
                                 <div className="icon"><i className="icofont-angry-monster"></i></div>
                                 <h4 className="title">Diseño</h4>
-                                <p>Diseño minimal inspirado en el principal diseñador de Apple, con esto, destacar por diseños llamativos y ergonomicos, todo la parte de User Interface fue pensada y analizada con los principios de Responsive Design and Interactive Design.</p>
+                                <p>Diseño minimal inspirado en el principal diseñador de Apple, con esto, destacaremos por diseños llamativos y ergonómicos, todo la parte de User Interface fue pensada y analizada con los principios de Responsive Design and Interactive Design.</p>
                             </div>
                             <div class="col-lg-4 col-md-6 icon-box">
                                 <div className="icon"><i className="icofont-bitcoin"></i></div>
@@ -144,8 +142,7 @@ const MDF = props => {
                                     <li><i className="icofont-circuit"></i>Diseño para mejorar la productividad del usuario</li>
                                 </ul>
                                 <p>
-                                    Con este diseño, entraremos al mercado con un dispositivo funcional pero llamativo para el publico. Ademas de esto,
-                                    estaremos en contacto con los usuarios para poner tener feedback de los clientes.
+                                    Con este diseño, entraremos al mercado con un dispositivo funcional pero llamativo para el público. Ademas de esto, estaremos en contacto con los usuarios para poner tener feedback de los clientes.
                                 </p>
                             </div>
                         </div>
@@ -157,8 +154,7 @@ const MDF = props => {
                         <div className="section-title">
                             <h2>Team</h2>
                             <p>
-                                Laptop MVN team tiene el proposito de construir la mejor laptop con el mejor software para aportar en la vida
-                                laboral de los clientes, actualmente el grupo por los personajes que han estado apoyando el proyecto.
+                                Laptop MVN team tiene el propósito de construir la mejor laptop con el mejor software para aportar en la vida laboral de los clientes, actualmente el grupo por los personajes que han estado apoyando el proyecto.
                         </p>
                         </div>
                         <div className="row">
