@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ARTT_Project/static/css/main.d59ce0b0.chunk.css",
-    "main.js": "/ARTT_Project/static/js/main.ed31a1d4.chunk.js",
-    "main.js.map": "/ARTT_Project/static/js/main.ed31a1d4.chunk.js.map",
+    "main.js": "/ARTT_Project/static/js/main.2a868118.chunk.js",
+    "main.js.map": "/ARTT_Project/static/js/main.2a868118.chunk.js.map",
     "runtime-main.js": "/ARTT_Project/static/js/runtime-main.50361dd4.js",
     "runtime-main.js.map": "/ARTT_Project/static/js/runtime-main.50361dd4.js.map",
     "static/js/2.29d634ff.chunk.js": "/ARTT_Project/static/js/2.29d634ff.chunk.js",
@@ -13,6 +13,7 @@
     "static/css/main.d59ce0b0.chunk.css.map": "/ARTT_Project/static/css/main.d59ce0b0.chunk.css.map",
     "static/js/2.29d634ff.chunk.js.LICENSE.txt": "/ARTT_Project/static/js/2.29d634ff.chunk.js.LICENSE.txt",
     "static/media/Proyecto.41955f4d.pdf": "/ARTT_Project/static/media/Proyecto.41955f4d.pdf",
+    "static/media/carne.7f35685a.jpeg": "/ARTT_Project/static/media/carne.7f35685a.jpeg",
     "static/media/ecolife.6e1e8ca9.png": "/ARTT_Project/static/media/ecolife.6e1e8ca9.png",
     "static/media/energiaParaTodos.a7a66ab0.jpg": "/ARTT_Project/static/media/energiaParaTodos.a7a66ab0.jpg",
     "static/media/logo.02f5ed89.png": "/ARTT_Project/static/media/logo.02f5ed89.png"
@@ -21,6 +22,6 @@
     "static/js/runtime-main.50361dd4.js",
     "static/js/2.29d634ff.chunk.js",
     "static/css/main.d59ce0b0.chunk.css",
-    "static/js/main.ed31a1d4.chunk.js"
+    "static/js/main.2a868118.chunk.js"
   ]
 }
